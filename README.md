@@ -85,8 +85,8 @@ Build the Dockerfile in the local directory into an image, and run it like this:
     $ docker build .
     # Progress, takes a while the first time..
     ....
-    Successfully built 3006a08eef2e 
-    $ docker run -v /usr/local/bin:/target 3006a08eef2e
+    Successfully built 6e9435ded921 
+    $ docker run -v /usr/local/bin:/target 6e9435ded921
 
 Without docker
 --------------
